@@ -1,286 +1,275 @@
-Anguilla
-Montserrat
-Tokelau
-Tuvalu
-Burundi
-Croatia
-Cyprus
-Denmark
-Aruba
-Angola
+Afghanistan
+Africa
+African
+Aland
 Albania
-Guernsey
-Jersey
-Mayotte
-Belize
-Canada
-Gibraltar
-Hungary
-Ireland
-Jamaica
-Niue
-Nauru
-Portugal
-Qatar
-Turkmenistan
-Ukraine
-Bulgaria
-Barbados
-Botswana
-Cameroon
-Brunei
-Netherlands Antilles
-French Southern Territories
-Saint Barthelemy
-Bermuda
-Bouvet Island
-Cocos Islands
-Cook Islands
-Czechoslovakia
-Cuba
-Christmas Island
-Western Sahara
-France
-Georgia
-Guinea
-Grenada
-Honduras
-Kuwait
-Lesotho
-Latvia
-Maldives
-Malawi
-Malaysia
-Romania
-Suriname
-Slovenia
-Sweden
-Vanuatu
-Zambia
+Algeria
+American
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua
+Antilles
+Arab
+Arabia
+Argentina
+Armenia
+Aruba
+Australia
+Austria
 Azerbaijan
+Bahamas
 Bahrain
+Bangladesh
+Barbados
+Barbuda
+Barthelemy
 Belarus
-Bosnia and Herzegovina
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia
 Bosnia-Herzegovina
+Botswana
+Bouvet
+Brazil
+Brunei
+Bulgaria
+Burkina
+Burundi
+Caicos
+Caledonia
+Cambodia
+Cameroon
+Canada
+Cayman
+Chad
+Chile
+China
+Cocos
+Colombia
 Comoros
-Czech Republic
+Congo
+Costa
+Cote
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech
+Czechoslovakia
+Democratic
+Denmark
+D'Ivoire
 Djibouti
-Dominican Republic
-Equatorial Guinea
+Dominica
+Dominican
+Ecuador
+Egypt
+Ellice
+Emirates
 Eritrea
-Faroe Islands
+Estonia
+Ethiopia
+Yugoslav
+Falkland
+Faroe
 Fiji
 Finland
-Antigua and Barbuda
-Antigua & Barbuda
-Somalia
-Trinidad and Tobago
-Trinidad & Tobago
-Aland Islands
-Andorra
-United Arab Emirates
-American Samoa
-Gilbert and Ellice Islands
-Greenland
-Isle of Man
-Liechtenstein
-Monaco
-Norfolk Island
-Neutral Zone
-Puerto Rico
-Serbia and Montenegro
-San Marino
-Syria
-Central African Rep.
-Central African Republic
-Solomon Islands
-Saint Kitts and Nevis
-St. Kitts & Nevis
-St. Kitts-Nevis
-Antarctica
-Australia
-Burkina Faso
-Switzerland
-Costa Rica
-Cayman Islands
-Falkland Islands
-Falkland Islands (Malvinas)
-French Guiana
-Heard Island and McDonald Islands
-Kyrgyz Republic
-Kyrgyzstan
-Kiribati
-Libya
-Saint Lucia
-St. Lucia
-Moldova
-Marshall Islands
-Northern Mariana Islands
-Northern Marianas
-New Zealand
-Pacific Islands, Trust Territory of the
-Saudi Arabia
-Saint Helena
-St. Helena
-Saint Pierre and Miquelon
-St. Pierre & Miquelon
-South Sudan
-Sao Tome and Principe
-Sao Tome & Principe
-Slovakia
-Slovak Republic
-Turks and Caicos Islands
-Tanzania
-Vatican
-Saint Vincent and the Grenadines
-St.Vincent & Grenadines
-Vietnam
-Viet Nam
-States Ex-Yugoslavia
-Sts Ex-Yugo. Unspec.
-South Africa
-Zimbabwe
-Saint Martin
-U.S. Virgin Islands
-Virgin Islands (US)
-Argentina
-Dominica
-Nigeria
-Brazil
+France
+Futuna
 Gabon
-Luxembourg
-Greece
-Guyana
-Mauritania
-Pakistan
-Bhutan
-Spain
-Swaziland
-Tonga
-Netherlands
-Algeria
-Armenia
-Benin
-Chile
-Chad
-Colombia
-Ecuador
-Mauritius
-Malta
-Mali
-Madagascar
-Lithuania
-Liberia
-Kosovo
-Kenya
-Iraq
-Kazakhstan
-Haiti
-Iceland
-Ghana
-Guatemala
-Nicaragua
-Niger
-Palau
-Paraguay
-Peru
-Poland
-Rwanda
-Senegal
-Seychelles
-Singapore
-Tajikistan
-Uganda
-Turkey
-Uzbekistan
-Philippines
-Myanmar
-Israel
-Oman
-Mexico
-Jordan
-Bolivia
-Curacao
-Laos
-Austria
-Belgium
-Japan
-Chinese Taipei
-Taiwan
-Cote D'Ivoire
-Ivory Coast
-Ethiopia
+Gambia
+Georgia
 Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Grenadines
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guiana
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Herzegovina
+Honduras
+Hong
+Hungary
+Iceland
 Indonesia
 Iran
-Korea, Dem. Rep.
-North Korea
-Panama
-Macedonia
-Macedonia, FYR
-Wallis and Futuna
-Wallis & Futuna
-Sudan
-Sint Maarten
-Thailand
-El Salvador
-Sierra Leone
-Russia
-Norway
-Namibia
-Mongolia
-Morocco
+Iraq
+Ireland
+Israel
 Italy
-Estonia
+Ivory
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kitts
+Kitts-Nevis
+Kong
 Korea
-South Korea
-Congo, Dem. Rep.
-Democratic Republic of the Congo
-Cambodia
-United States
-Reunion
-French Polynesia
-New Caledonia
-Martinique
-Guinea-Bissau
-Guam
-Guadeloupe
-United Kingdom
-British Virgin Islands
-Virgin Islands (UK)
-United States Minor Outlying Islands
-East Timor
-Timor-Leste
-Serbia
-Micronesia
-Micronesia, Federated States of
-Micronesia, Fed. States
-Gambia
-Bahamas
-Macao
-Hong Kong
-Hong Kong, China
-Egypt
-Congo, Rep.
-Republic of the Congo
-Svalbard and Jan Mayen
-South Georgia and the South Sandwich Islands
-Pitcairn
-Palestinian Adm. Areas
-Palestinian Territory
-Tunisia
-Togo
-Mozambique
-Montenegro
+Kosovo
+Kuwait
+Kyrgyz
+Kyrgyzstan
+Lanka
+Laos
+Latvia
 Lebanon
-China
-Bangladesh
-Uruguay
+Leone
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Lucia
+Luxembourg
+Maarten
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Malvinas
+Mariana
+Marianas
+Marino
+Marshall
+Martin
+Martinique
+Mauritania
+Mauritius
+Mayen
+Mayotte
+Mexico
+Micronesia
+Miquelon
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
 Nepal
-Afghanistan
+Netherlands
+Nevis
+Nicaragua
+Niger
+Nigeria
+Niue
+Norway
+Oman
+Pakistan
+Palau
+Palestinian
+Panama
+Papua
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Polynesia
+Portugal
+Principe
+Puerto
+Qatar
+Reunion
+Rica
+Rico
+Romania
+Russia
+Rwanda
+Sahara
+Salvador
 Samoa
-Papua New Guinea
-Sri Lanka
-Yemen
-Cape Verde
+Sandwich
+Sao
+Saudi
+Senegal
+Serbia
+Seychelles
+Sierra
+Singapore
+Sint
+Slovak
+Slovakia
+Slovenia
+Solomon
+Somalia
+Spain
+Sri
+United States
+St.Vincent
+Sudan
+Suriname
+Svalbard
+Swaziland
+Sweden
+Switzerland
+Syria
+Taipei
+Taiwan
+Tajikistan
+Tanzania
+Territories
+Territory
+Thailand
+Timor
+Timor-Leste
+Tobago
+Togo
+Tokelau
+Tome
+Tonga
+Trinidad
+Tunisia
+Turkey
+Turkmenistan
+Turks
+Tuvalu
+Uganda
+United Kingdom
+UK
+Ukraine
+United
+Uruguay
+US
+U.S.
+Uzbekistan
+Vanuatu
+Vatican
 Venezuela
+Verde
+Viet Nam
+Vietnam
+Vincent
+Virgin
+Wallis
+Yemen
+Zambia
+Zealand
+Zimbabwe
