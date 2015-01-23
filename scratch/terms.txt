@@ -1,4 +1,4 @@
-Rs[.]*
+\b([0-9.-]*|\s)*Rs[.]*([0-9.-]*|\s)*
 Rupee[s]*
 lakh[s]*
 crore[s]*
@@ -7,5 +7,5 @@ thousand[s]*
 million[s]*
 dollar[s]*
 USD
-$
+\$
 ₹
