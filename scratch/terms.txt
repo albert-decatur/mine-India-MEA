@@ -1,0 +1,11 @@
+Rs[.]*
+Rupee[s]*
+lakh[s]*
+crore[s]*
+hundred[s]*
+thousand[s]*
+million[s]*
+dollar[s]*
+USD
+$
+₹
